@@ -1,4 +1,4 @@
-# Final_project
+# Project mobile game
 The main objective is to answer the following questions:
 
 
