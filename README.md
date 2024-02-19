@@ -3,7 +3,7 @@ The main objective is to answer the following questions:
 
 
 
-Wrote a function that calculates player retention (by days since the player's registration date).
+Write a function that calculates player retention (by days since the player's registration date).
 
 
 Analyze the results from an A/B test in which two groups of users were offered different sets of promotional offers. 
